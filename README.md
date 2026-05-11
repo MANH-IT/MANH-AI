@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 👨‍💻 **AI Engineer** at **Future R Technology Joint Stock Company**  
-- ⏳ Over **1 year of hands-on experience** (02/2024 – 04/2025)  
+- ⏳ Over **2 year of hands-on experience** (02/2024 – 04/2026)  
 - 🚀 Key project: **Developing AI Robots for Educational Support**  
 - 💡 Skills & Technologies:
   - 🤖 Computer Vision
